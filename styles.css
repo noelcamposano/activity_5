@@ -1,0 +1,16 @@
+.redbackground {
+    color: aquamarine;
+    background-color: red;
+    background-color: rgb(214, 126, 11) !important;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.footer {
+    color: rgb(220, 207, 245);
+    background-color: rgb(238, 5, 5);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
